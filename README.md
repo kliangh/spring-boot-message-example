@@ -3,3 +3,6 @@
 * Spring Boot
 * Kafka
 * RabbitMQ
+
+## Link
+* [RabbitMQ Dashboard](http://localhost:15672)
